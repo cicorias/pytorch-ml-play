@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "template for python ml"
+name = "templateforpythonml"
 version = "0.1.0"
 description = "njit deep learn project 1"
 authors = ["Shawn Cicoria <github@cicoria.com>"]
@@ -11,6 +11,11 @@ torch = "1.6.0"
 torchvision = "^0.7.0"
 tensorflow = "^2.3.0"
 jupyterlab = "^2.2.7"
+imageio = "^2.9.0"
+matplotlib = "^3.3.2"
+scikit-image = "^0.17.2"
+scipy = "^1.5.2"
+scikit-learn = "^0.23.2"
 
 [tool.poetry.dev-dependencies]
 
