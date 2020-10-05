@@ -143,3 +143,8 @@ core50/data
 
 .DS_Store
 
+
+
+test/
+train/
+val/
